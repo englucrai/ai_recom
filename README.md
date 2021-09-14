@@ -12,6 +12,8 @@ https://grouplens.org/datasets/movielens/25m/
 
 Primeiramente, é necessário incluir os arquivos do dataset no diretório dos arquivos abaixo.
 
+## ARQUIVOS
+
 O arquivo "Projeto02_CAM.ipynb" consiste em teste utilizando as bibliotecas que serão usadas no projeto.
 
 O arquivo "k-means.ipynb" traz experimentos realizados com subconjuntos do dataset.
