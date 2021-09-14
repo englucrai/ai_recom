@@ -1,5 +1,10 @@
 # Sistema de recomendação - K-means
 
+<p align="center">
+  <img src="https://github.com/englucrai/ai_recom/blob/main/images/pred_4_bubble.png"/>
+</p>
+
+
 Primeiramente, é necessário incluir os arquivos do dataset no diretório dos arquivos abaixo.
 
 O arquivo "Projeto02_CAM.ipynb" consiste em teste utilizando as bibliotecas que serão usadas no projeto.
