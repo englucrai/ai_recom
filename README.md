@@ -5,6 +5,11 @@
 </p>
 
 
+## DATA SET
+
+O dataset Movielens está disponibilizado no link abaixo.
+https://grouplens.org/datasets/movielens/25m/
+
 Primeiramente, é necessário incluir os arquivos do dataset no diretório dos arquivos abaixo.
 
 O arquivo "Projeto02_CAM.ipynb" consiste em teste utilizando as bibliotecas que serão usadas no projeto.
